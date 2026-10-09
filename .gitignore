@@ -1,0 +1,21 @@
+# 本地 MCP 配置含真实 Token，不得提交
+.workbuddy/
+mcp.json
+.mcp.json
+.env
+*.token
+
+# Python
+__pycache__/
+*.pyc
+ *.egg-info/
+.venv/
+venv/
+
+# 中间产物（脚本生成的临时文件）
+_smoke.js
+_run.js
+
+# 系统
+.DS_Store
+Thumbs.db
