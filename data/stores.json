@@ -1,0 +1,120 @@
+{
+  "_source": {
+    "tool": "mcp__mcd-mcp__query-nearby-stores",
+    "params": { "beType": 1, "searchType": 2, "city": "上海", "keyword": "人民广场" },
+    "fetchedAt": "2026-10-10 01:12:59",
+    "note": "reservationTimeOptions 字段揭示了每家门店各自不同的供餐时段切分，这是门店级数据，官方未在任何文档里单独说明。"
+  },
+  "stores": [
+    {
+      "storeCode": "1450713",
+      "storeName": "麦当劳上海黄浦华旭国际大厦餐厅",
+      "address": "南京东路街道西藏中路336号",
+      "distance": 144,
+      "businessStatus": true,
+      "businessStartTime": "00:00",
+      "businessEndTime": "23:59",
+      "reservation": true,
+      "reservationTimeOptions": [
+        {
+          "date": "2026-10-10",
+          "today": true,
+          "reservationOptionText": "宵夜(00:00至04:45,22:14至23:59)，早餐(05:14至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)"
+        },
+        {
+          "date": "2026-10-11",
+          "today": false,
+          "reservationOptionText": "宵夜(00:00至04:45,22:14至23:59)，早餐(05:14至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)"
+        }
+      ]
+    },
+    {
+      "storeCode": "1450441",
+      "storeName": "麦当劳上海福州路餐厅",
+      "address": "福州路666号",
+      "distance": 235,
+      "businessStatus": false,
+      "businessStartTime": "06:30",
+      "businessEndTime": "23:00",
+      "reservation": true,
+      "reservationTimeOptions": [
+        {
+          "date": "2026-10-10",
+          "today": true,
+          "reservationOptionText": "早餐(06:44至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至22:46)"
+        },
+        {
+          "date": "2026-10-11",
+          "today": false,
+          "reservationOptionText": "早餐(06:44至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至22:46)"
+        }
+      ]
+    },
+    {
+      "storeCode": "1450056",
+      "storeName": "麦当劳上海食品一店餐厅",
+      "address": "南京东路720号",
+      "distance": 355,
+      "businessStatus": false,
+      "businessStartTime": "06:30",
+      "businessEndTime": "23:00",
+      "reservation": true,
+      "reservationTimeOptions": [
+        {
+          "date": "2026-10-10",
+          "today": true,
+          "reservationOptionText": "早餐(06:44至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至22:46)"
+        },
+        {
+          "date": "2026-10-11",
+          "today": false,
+          "reservationOptionText": "早餐(06:44至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至22:46)"
+        }
+      ]
+    },
+    {
+      "storeCode": "1450195",
+      "storeName": "麦当劳上海雅居乐餐厅",
+      "address": "西藏中路525号",
+      "distance": 382,
+      "businessStatus": false,
+      "businessStartTime": "06:00",
+      "businessEndTime": "23:00",
+      "reservation": true,
+      "reservationTimeOptions": [
+        {
+          "date": "2026-10-10",
+          "today": true,
+          "reservationOptionText": "早餐(06:14至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至22:46)"
+        },
+        {
+          "date": "2026-10-11",
+          "today": false,
+          "reservationOptionText": "早餐(06:14至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至22:46)"
+        }
+      ]
+    },
+    {
+      "storeCode": "1450124",
+      "storeName": "麦当劳上海南京西路NX258餐厅",
+      "address": "南京西路258号1幢一层",
+      "distance": 412,
+      "businessStatus": false,
+      "businessStartTime": "07:00",
+      "businessEndTime": "23:00",
+      "reservation": true,
+      "reservationTimeOptions": [
+        {
+          "date": "2026-10-10",
+          "today": true,
+          "reservationOptionText": "早餐(07:14至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至22:46)"
+        },
+        {
+          "date": "2026-10-11",
+          "today": false,
+          "reservationOptionText": "早餐(07:14至10:15)，午餐(10:44至14:15)，下午茶(14:44至16:45)，夜市(17:14至21:45)，宵夜(22:14至22:46)"
+        }
+      ]
+    }
+  ]
+}

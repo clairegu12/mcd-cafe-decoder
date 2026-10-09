@@ -1,0 +1,203 @@
+{
+  "_source": {
+    "tool": "mcp__mcd-mcp__query-meals",
+    "params": {
+      "storeCode": "1450713",
+      "orderType": 1,
+      "beType": 1
+    },
+    "storeName": "麦当劳上海黄浦华旭国际大厦餐厅",
+    "storeAddress": "南京东路街道西藏中路336号",
+    "fetchedAt": "2026-10-10 01:13:22",
+    "note": "麦咖啡™ 与 饮品 两个分类的完整条目，字段原样保留。"
+  },
+  "categories": [
+    {
+      "name": "麦咖啡™",
+      "meals": [
+        { "code": "515946", "tags": ["限定特惠", "浓浓黑巧"] },
+        { "code": "515955", "tags": ["限定特惠", "浓浓黑巧"] },
+        { "code": "507411", "tags": ["限定特惠"] },
+        { "code": "507409", "tags": ["限定特惠"] },
+        { "code": "510479", "tags": ["麦咖啡™咖啡"] },
+        { "code": "507387", "tags": ["麦咖啡™咖啡"] },
+        { "code": "520689", "tags": ["麦咖啡™咖啡", "鲜萃咖啡"] },
+        { "code": "507389", "tags": ["麦咖啡™咖啡"] },
+        { "code": "507394", "tags": ["其他"] },
+        { "code": "510489", "tags": ["其他"] }
+      ]
+    },
+    {
+      "name": "饮品",
+      "meals": [
+        { "code": "521817", "tags": ["上新", "清爽上新"] },
+        { "code": "521337", "tags": ["冷饮", "冰爽上新"] },
+        { "code": "9900008751", "tags": ["冷饮"] },
+        { "code": "3010", "tags": ["冷饮"] },
+        { "code": "515520", "tags": ["冷饮"] },
+        { "code": "2430", "tags": ["冷饮"] },
+        { "code": "515280", "tags": ["冷饮"] },
+        { "code": "3755", "tags": ["冷饮"] },
+        { "code": "6362", "tags": ["冷饮"] },
+        { "code": "3757", "tags": ["冷饮"] },
+        { "code": "520689", "tags": ["热饮", "鲜萃咖啡"] },
+        { "code": "3505", "tags": ["热饮"] }
+      ]
+    }
+  ],
+  "meals": {
+    "515946": {
+      "name": "浓浓黑巧（冰/热）",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20261008/product/MS_G515945_320.gif",
+      "currentPrice": "21",
+      "originalPrice": "21",
+      "canWithOrder": false
+    },
+    "515955": {
+      "name": "浓浓燕麦黑巧（冰/热）",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20261008/product/MS_G515954_320.gif",
+      "currentPrice": "23",
+      "originalPrice": "23",
+      "canWithOrder": false
+    },
+    "507411": {
+      "name": "麦咖啡™美式",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260422/product/MS_G507374_320.gif",
+      "currentPrice": "9.9",
+      "originalPrice": "19",
+      "discountType": "随单购麦金卡优惠",
+      "withOrder": { "membershipCode": "106", "specId": "880" },
+      "canWithOrder": true
+    },
+    "507409": {
+      "name": "麦咖啡™奶铁",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260422/product/MS_G507372_320.gif",
+      "currentPrice": "9.9",
+      "originalPrice": "21",
+      "discountType": "随单购麦金卡优惠",
+      "withOrder": { "membershipCode": "106", "specId": "880" },
+      "canWithOrder": true
+    },
+    "510479": {
+      "name": "燕麦奶铁",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260422/product/MS_G510481_320.png",
+      "currentPrice": "9.9",
+      "originalPrice": "23",
+      "discountType": "随单购麦金卡优惠",
+      "withOrder": { "membershipCode": "106", "specId": "880" },
+      "canWithOrder": true
+    },
+    "507387": {
+      "name": "卡布奇诺",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250324/product/MS_G507388_320.png",
+      "currentPrice": "21",
+      "originalPrice": "21",
+      "canWithOrder": false
+    },
+    "520689": {
+      "name": "鲜萃咖啡",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250324/product/MS_G520688_320.gif",
+      "currentPrice": "9.5",
+      "originalPrice": "9.5",
+      "canWithOrder": false
+    },
+    "507389": {
+      "name": "浓缩咖啡",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250324/product/MS_507389_320.png",
+      "currentPrice": "15",
+      "originalPrice": "15",
+      "canWithOrder": false
+    },
+    "507394": {
+      "name": "牛奶",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G5073941_320.png",
+      "currentPrice": "19",
+      "originalPrice": "19",
+      "canWithOrder": false
+    },
+    "510489": {
+      "name": "燕麦奶",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G510489_320.png",
+      "currentPrice": "21",
+      "originalPrice": "21",
+      "canWithOrder": false
+    },
+    "521337": {
+      "name": "鲜萃冰咖",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_521337_320.png",
+      "currentPrice": "11.5",
+      "originalPrice": "11.5",
+      "canWithOrder": false
+    },
+    "3505": {
+      "name": "锡兰红茶",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_3505_320.png",
+      "currentPrice": "11.5",
+      "originalPrice": "11.5",
+      "canWithOrder": false
+    },
+    "3755": {
+      "name": "纯牛奶(盒装)",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20240731/product/MS_3755_320.png",
+      "currentPrice": "10.5",
+      "originalPrice": "10.5",
+      "canWithOrder": false
+    },
+    "3757": {
+      "name": "纯悦",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20240904/product/MS_3757_320.png",
+      "currentPrice": "7.5",
+      "originalPrice": "7.5",
+      "canWithOrder": false
+    },
+    "3010": {
+      "name": "雪碧",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G3010_320.png",
+      "currentPrice": "9.5",
+      "originalPrice": "9.5",
+      "canWithOrder": false
+    },
+    "9900008751": {
+      "name": "可乐",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_9900008751_320.gif",
+      "currentPrice": "9.5",
+      "originalPrice": "9.5",
+      "canWithOrder": false
+    },
+    "515280": {
+      "name": "阳光柠檬红茶",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G515280_320.png",
+      "currentPrice": "9.5",
+      "originalPrice": "9.5",
+      "canWithOrder": false
+    },
+    "515520": {
+      "name": "怡泉+C",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/ProductPool/product/MS_G515520_320.png",
+      "currentPrice": "11.5",
+      "originalPrice": "11.5",
+      "canWithOrder": false
+    },
+    "2430": {
+      "name": "【美汁源】“黄金橙橙”",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20240904/product/MS_2430_320.png",
+      "currentPrice": "13",
+      "originalPrice": "13",
+      "canWithOrder": false
+    },
+    "521817": {
+      "name": "【美汁源】“多汁柠柠”",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20260807/product/MS_521817_320.png",
+      "currentPrice": "12",
+      "originalPrice": "12",
+      "canWithOrder": false
+    },
+    "6362": {
+      "name": "100% 苹果汁(盒装)",
+      "image": "https://menu-img.mcd.cn/pcm/prod/menu/20250430/product/MS_6362_320_1745552987716.png",
+      "currentPrice": "11.5",
+      "originalPrice": "11.5",
+      "canWithOrder": false
+    }
+  }
+}
